@@ -413,3 +413,106 @@ footer p {
 	margin-left: 5%;
 	font-family: 'NEXON Lv2 Gothic Bold';
 }
+
+@media screen and (max-width:360px) {
+	/*검색*/
+
+	.search {
+	width: 90%;
+	height: 50vw;
+	padding: 9.3vw;
+}
+
+.search h1 {
+	color: #3e3e3e;
+	text-align: center;
+	font-size: 6vw;
+	margin-bottom: 5vw
+}
+
+.search p {
+	text-align: center;
+	margin: 0vw 0vw 6vw;
+	font-size: 3vw;
+	font-family: 'NEXON Lv2 Gothic Bold';
+	color: #3e3e3e;
+}
+
+ .sns {
+	float: left;
+	 width: 54.7vw;
+	height: 9.5vw;
+	border: 4px solid #3e3e3e;
+	 margin:2.1vw 5vw;
+}
+.search img {
+	float: left;
+	width: 15vw;
+}
+
+.sns form input {
+	width: 100%;
+	height: 100%;
+	border: 0px;
+	padding: 5%;
+	outline: none;
+	float: left;
+}
+	
+	.how {
+	height:270vw;
+}
+	
+	.how ul li .list_wrap {
+	position: relative;
+	width: 100%;
+	height: 190px;
+}
+	
+	footer {
+	background-color: #c6c6c5;
+}
+
+.footer_wrapk {
+	margin-top: 15vw;
+	height: 65vw;
+}
+
+.footer_wrap {
+	width: 95%;
+	margin: 0 auto;
+}
+
+.footer_logo {
+	width: 15%;
+	padding: 5% 3% 0%;
+	float: left;
+}
+
+.footer_wrapk h1 {
+	padding: 8% 20%;
+	font-size: 5vw;
+		font-family: 'NEXON Lv2 Gothic Bold';
+}
+
+.footer_wrapk h1 samp {
+	color: #0036b0;
+	font-family: 'NEXON Lv2 Gothic Bold';
+}
+
+address {
+	color: #222;
+	padding: 2% 5% 4%;
+	width: 100%;
+	font-size: 3vw;
+	line-height: 8vw;
+	font-family: 'NEXON Lv2 Gothic Bold';
+}
+
+footer p {
+	color: #fff;
+	font-size: 2.5vw;
+	margin-left: 5%;
+	font-family: 'NEXON Lv2 Gothic Bold';
+}
+}
