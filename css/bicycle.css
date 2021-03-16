@@ -20,7 +20,7 @@ a {
 
 body {
 	background-color: #ededed;
-	overflow-x: hidden;
+	overflow-x: hidden;/*딱 고정*/
 }
 
 @font-face {
