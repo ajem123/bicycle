@@ -320,7 +320,7 @@ samp {
 .how ul li {
 	width: 46%;
 	height: 130%;
-	margin: 2vw;
+	margin: 2%;
 	float: left;
 }
 
@@ -353,7 +353,7 @@ samp {
 }
 
 .how ul li .list_wrap .front p {
-	font-size: 2.6vw;
+	font-size: 75%;
 	margin-top: 3vw;
 }
 
